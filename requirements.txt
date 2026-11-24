@@ -1,0 +1,4 @@
+supabase==2.34.1
+python-dotenv==1.2.4
+pandas
+numpy
